@@ -22,7 +22,7 @@ __PERSONAL SKILLS__
 __PROFESSIONAL CARRIER__   
 
 __Microsoft__ (2010-2014)  
-__SDET/SDE__  
+__SDET II/SDE II__  
 *Bellevue, USA*  
 *Technologies: C#, Microsoft SQL, Visual Studio, Selenium, KAF, MVC*  
 
