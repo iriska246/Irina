@@ -5,7 +5,7 @@ __Phone: 425-241-5866__
 *irina.toronto@gmail.com*  
 
 __OBJECTIVE__  
-To obtain challenging __Program Manager__ position within your organization
+To obtain challenging __Software Engineer__ position that would challenge and enhance my technical and personal skills
 
 __EDUCATION__  
 __Bachelor Degree in Computer Science__ (2001 – 2005)  
@@ -14,7 +14,6 @@ __Bachelor Degree in Computer Science__ (2001 – 2005)
 __PERSONAL SKILLS__
 
 * Excellent analytical and problem-solving skills
-* Ability to generate and apply new solutions to problems
 * Great verbal and written communication skills, creativity and intuition
 * Enthusiastic, outgoing, self-motivated, team player, quick learner
 * Able to work under strict deadlines and comfortable in fast-paced environment
@@ -27,13 +26,16 @@ __SDET II/SDE II__
 *Technologies: C#, Microsoft SQL, Visual Studio, Selenium, KAF, MVC*  
 
 * Performed Bing Ads UI code development, bug fixing, testing and monitoring
-* Owned testing components on Customer, Yahoo-Bing Integration, Account and Billing, Internal sections
-* Worked on different modules including DB, API and UI
-* Closely collaborated across different teams DEV, SDET, PM, DB, MT, UI
-* Created UI automation using Selenium/KAF/MVC frameworks
-* Volunteered working on internal Data Factory tool which was used accross multiple teams
-* Ran E2E testing and production validation
-* Worked as a mentor
+* Owned, designed and implemented test automation involving: UI, MT, API, DB layers
+* Owned testing on Customer, Yahoo-MS Integration, Accounts & Billing and Internal sections
+* Developed front end data factory generation application which was used across multiple teams
+* Worked on production deployment and live site investigations
+* Mentored and helped junior team members ramp-up on system design and technology
+* Managed quality for cross-group features that helped Bing Ads with successful Yahoo migration
+* Drove End to End testing across four cross-core and divisional teams 
+* Investigated and resolved bugs on time
+* Created front end Yahoo Migration testing application used by four internal teams to migrate users 	
+* Managed offshore teams and collaborated across multiple teams to accomplish integration testing
 
 
 __Hewlett-Packard__ (2006 – 2008)    
@@ -53,9 +55,6 @@ __Technical Lead/Solution Architect__
 * Improved long-running SQL query performance by 500%
 * Volunteered in organizing team events and get-togethers
 
-__LANGUAGES__  
-English, Russian
+__REFERENCES AVAILABLE UPON REQUEST__  
 
 
-__INTERESTS__  
-Tennis, skiing and SCUBA diving
